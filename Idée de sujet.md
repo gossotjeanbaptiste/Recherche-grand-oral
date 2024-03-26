@@ -1,9 +1,15 @@
-- NSI : 
-  * Cryptographie
-  * Protection des systèmes informatiques
+- NSI :
+  - Cryptographie
+  - Protection des systèmes informatiques
+  - Idée de sujet :
+    - La cybersécurité, un enjeu majeur dans notre monde hyperconnecté ?
+    - La cryptographie, un outil de protection des données personnelles ?
   
-- Mathématiques : 
-  * Suites
-  * Arithmétiques
-  * Fonctions
-  * Primitives
+- Mathématiques :
+  - Suites
+  - Arithmétiques
+  - Fonctions
+  - Primitives
+  - Idée de sujet :
+    - Les fonctions affines, un outil de chiffrage réélement efficace ?
+    - Les suites arithmétiques, un outil de protection des données personnelles ?
