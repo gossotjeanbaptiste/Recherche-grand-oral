@@ -2,7 +2,7 @@
   - Cryptographie
   - Protection des systèmes informatiques
   - Idée de sujet :
-    - La cybersécurité, un enjeu majeur dans notre monde hyperconnecté ?
+    - La cybersécurité et l'IA, un enjeu majeur dans notre monde hyperconnecté ?
     - ~~La cryptographie, un outil de protection des données personnelles ?~~
   
 - Mathématiques :
