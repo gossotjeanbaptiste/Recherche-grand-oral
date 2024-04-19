@@ -3,7 +3,7 @@
   - Protection des systèmes informatiques
   - Idée de sujet :
     - La cybersécurité, un enjeu majeur dans notre monde hyperconnecté ?
-    - La cryptographie, un outil de protection des données personnelles ?
+    - ~~La cryptographie, un outil de protection des données personnelles ?~~
   
 - Mathématiques :
   - Suites
@@ -11,5 +11,5 @@
   - Fonctions
   - Primitives
   - Idée de sujet :
-    - Les fonctions affines, un outil de chiffrage réélement efficace ?
-    - Les suites arithmétiques, un outil de protection des données personnelles ?
+    - Les fonctions affines et polynomiales, un outil de chiffrage réellement efficace ?
+    - ~~Les suites arithmétiques, un outil de protection des données personnelles ?~~
