@@ -13,5 +13,5 @@
   - Fonctions
   - Primitives
   - Idée de sujet :
-    - Les fonctions affines et polynomiales, un outil de chiffrage réellement efficace ?
+    - Les fonctions sont-elles des outils de chiffrement efficace ?
     - ~~Les suites arithmétiques, un outil de protection des données personnelles ?~~
