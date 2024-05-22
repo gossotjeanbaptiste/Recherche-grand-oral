@@ -34,8 +34,6 @@ Citations:
 
 ---
 
-Bien sûr, voici un plan détaillé pour aborder la problématique "La cybersécurité et l'IA, des enjeux majeurs dans un monde hyperconnecté" lors de votre Grand Oral :
-
 ### Introduction
 
 1. **Accroche**
