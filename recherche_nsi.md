@@ -31,3 +31,64 @@ Citations:
 [3](https://guardia.school/metiers/expert-en-cybersecurite.html)
 [4](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-management-des-systemes-d-information-KBUV9JGI/master-parcours-systemes-d-information-et-de-connaissance-sous-parcours-cybersecurite-apprentissage-KD8MHGXN.html)
 [5](https://iia-formation.fr/les-formations/)
+
+---
+
+Bien sûr, voici un plan détaillé pour aborder la problématique "La cybersécurité et l'IA, des enjeux majeurs dans un monde hyperconnecté" lors de votre Grand Oral :
+
+### Introduction
+
+1. **Accroche**
+   - Illustration d’une cyberattaque récente ou d’une avancée marquante en IA.
+   - Statistique sur l’augmentation des cyberattaques ou l'adoption de l'IA dans le monde.
+2. **Présentation de la problématique**
+   - Définition de la cybersécurité et de l'IA.
+   - Pourquoi ces sujets sont cruciaux dans un monde hyperconnecté.
+3. **Annonce du plan**
+   - Présentation des grandes parties du plan.
+
+### I. La Cybersécurité dans un Monde Hyperconnecté
+
+1. **Définition et Importance de la Cybersécurité**
+   - Ce qu’est la cybersécurité.
+   - Importance croissante avec l’augmentation des données en ligne et des objets connectés.
+2. **Les Menaces Actuelles et Futures**
+   - Exemples de cybermenaces : malware, ransomware, phishing, etc.
+   - Evolution des menaces avec le développement technologique.
+3. **Mesures de Protection et Stratégies de Cybersécurité**
+   - Techniques de protection : cryptographie, pare-feu, etc.
+   - Rôle des gouvernements et des entreprises dans la protection des données.
+
+### II. L’Intelligence Artificielle : Potentiels et Risques
+
+1. **Définition et Applications de l’IA**
+   - Ce qu’est l’IA et ses principales applications.
+   - Utilisation de l’IA dans divers domaines : santé, finance, transports, etc.
+2. **Les Bénéfices de l’IA pour la Cybersécurité**
+   - Comment l’IA peut améliorer la cybersécurité : détection des menaces, automatisation des réponses, etc.
+   - Exemples concrets de solutions IA en cybersécurité.
+3. **Risques et Défis Posés par l’IA**
+   - Les risques associés à l’IA : biais algorithmiques, attaques IA, éthique, etc.
+   - Comment ces risques peuvent impacter la cybersécurité.
+
+### III. L’Interaction entre Cybersécurité et IA dans un Monde Hyperconnecté
+
+1. **Synergies et Complémentarités**
+   - Comment la cybersécurité et l’IA peuvent s’enrichir mutuellement.
+   - Cas d’usage où l’IA et la cybersécurité collaborent efficacement.
+2. **Enjeux Éthiques et Réglementaires**
+   - Problèmes éthiques liés à l’utilisation de l’IA en cybersécurité.
+   - Nécessité de régulations pour encadrer l’usage de l’IA et protéger les droits individuels.
+3. **Perspectives d’Avenir**
+   - Innovations attendues dans le domaine de la cybersécurité et de l’IA.
+   - Importance de l’éducation et de la formation continue pour faire face aux nouveaux défis.
+
+### Conclusion
+
+1. **Synthèse des Points Clés**
+   - Récapitulatif des enjeux majeurs liés à la cybersécurité et à l’IA.
+2. **Ouverture**
+   - Question ouverte sur l’évolution future de ces domaines.
+   - Invitation à la réflexion sur l’équilibre entre technologie et éthique dans un monde hyperconnecté.
+
+Ce plan vous permettra de structurer votre présentation de manière claire et cohérente, en abordant les aspects essentiels de la cybersécurité et de l’IA, ainsi que leur interaction dans un contexte de connectivité mondiale croissante.
