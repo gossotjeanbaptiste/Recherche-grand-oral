@@ -18,3 +18,62 @@ Citations:
 [3](https://fr.wikipedia.org/wiki/Chiffrement_RSA)
 [4](https://www.sealpath.com/fr/blog/types-de-chiffrement-guide/)
 [5](https://www.kaspersky.fr/resource-center/definitions/encryption)
+
+---
+
+### Introduction
+
+1. **Accroche**
+   - Exemple d'un chiffrement célèbre (comme le RSA) ou une anecdote historique sur le chiffrement.
+   - Statistique sur l'importance de la sécurité des données dans le monde numérique actuel.
+2. **Présentation de la problématique**
+   - Définition du chiffrement et des fonctions mathématiques utilisées.
+   - Importance de la question dans le contexte actuel de la cybersécurité.
+3. **Annonce du plan**
+   - Présentation des grandes parties du plan.
+
+### I. Comprendre les Fonctions Mathématiques dans le Chiffrement
+
+1. **Définition et Types de Fonctions Mathématiques Utilisées**
+   - Explication des fonctions mathématiques (fonctions arithmétiques, algébriques, logarithmiques, etc.).
+   - Introduction aux concepts de cryptographie : chiffrement symétrique et asymétrique.
+2. **Exemples de Fonctions Utilisées en Cryptographie**
+   - Algorithmes de chiffrement symétrique : AES, DES.
+   - Algorithmes de chiffrement asymétrique : RSA, ECC (Elliptic Curve Cryptography).
+3. **Propriétés Mathématiques Importantes pour le Chiffrement**
+   - Propriétés nécessaires : non-inversibilité, complexité calculatoire, collisions, etc.
+   - Importance de la théorie des nombres et des mathématiques discrètes.
+
+### II. Efficacité des Fonctions Mathématiques comme Outils de Chiffrement
+
+1. **Critères d’Efficacité**
+   - Sécurité : résistance aux attaques (brute force, analyse cryptographique, etc.).
+   - Performance : rapidité et efficacité de l'algorithme.
+   - Scalabilité : capacité à gérer de grandes quantités de données.
+2. **Analyse de Cas Pratiques**
+   - Efficacité du RSA : sécurité basée sur la factorisation des grands nombres.
+   - Efficacité de l'AES : rapidité et sécurité basée sur les substitutions et permutations.
+3. **Limitations et Vulnérabilités**
+   - Problèmes potentiels : attaques quantiques (impact sur RSA), faiblesses dans les implémentations (side-channel attacks).
+   - Importance de la mise à jour et de l'évolution des algorithmes face aux nouvelles menaces.
+
+### III. Perspectives Futures et Innovations
+
+1. **Cryptographie Post-Quantique**
+   - Défis posés par les ordinateurs quantiques aux algorithmes actuels.
+   - Nouveaux algorithmes résistants aux attaques quantiques : Lattice-based cryptography, Hash-based cryptography, etc.
+2. **Avancées en Mathématiques et Algorithmes**
+   - Innovations mathématiques pour renforcer la sécurité des algorithmes de chiffrement.
+   - Recherche continue pour trouver des algorithmes plus efficaces et sécurisés.
+3. **Implications Éthiques et Réglementaires**
+   - Conséquences de l'évolution des algorithmes de chiffrement sur la vie privée et la sécurité.
+   - Importance des régulations pour assurer une utilisation responsable des technologies de chiffrement.
+
+### Conclusion
+
+1. **Synthèse des Points Clés**
+   - Récapitulatif des critères d’efficacité des fonctions mathématiques dans le chiffrement.
+   - Importance de la sécurité et de l'innovation continue.
+2. **Ouverture**
+   - Question ouverte sur l'avenir des techniques de chiffrement face aux progrès technologiques.
+   - Invitation à réfléchir sur l'équilibre entre sécurité, performance et éthique dans l’utilisation des technologies de chiffrement.
