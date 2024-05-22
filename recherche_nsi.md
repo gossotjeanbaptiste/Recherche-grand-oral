@@ -88,5 +88,3 @@ Citations:
 2. **Ouverture**
    - Question ouverte sur l’évolution future de ces domaines.
    - Invitation à la réflexion sur l’équilibre entre technologie et éthique dans un monde hyperconnecté.
-
-Ce plan vous permettra de structurer votre présentation de manière claire et cohérente, en abordant les aspects essentiels de la cybersécurité et de l’IA, ainsi que leur interaction dans un contexte de connectivité mondiale croissante.
