@@ -49,6 +49,8 @@ Citations:
 3. **Annonce du plan**
    - Présentation des grandes parties du plan.
 
+---
+
 ### I. La Cybersécurité dans un Monde Hyperconnecté
 
 1. **Définition et Importance de la Cybersécurité**
@@ -88,6 +90,8 @@ Citations:
    - Techniques de protection : cryptographie, pare-feu, etc.
    - Rôle des gouvernements et des entreprises dans la protection des données.
 
+---
+
 ### II. L’Intelligence Artificielle : Potentiels et Risques
 
 1. **Définition et Applications de l’IA**
@@ -100,6 +104,8 @@ Citations:
    - Les risques associés à l’IA : biais algorithmiques, attaques IA, éthique, etc.
    - Comment ces risques peuvent impacter la cybersécurité.
 
+---
+
 ### III. L’Interaction entre Cybersécurité et IA dans un Monde Hyperconnecté
 
 1. **Synergies et Complémentarités**
@@ -111,6 +117,8 @@ Citations:
 3. **Perspectives d’Avenir**
    - Innovations attendues dans le domaine de la cybersécurité et de l’IA.
    - Importance de l’éducation et de la formation continue pour faire face aux nouveaux défis.
+
+---
 
 ### Conclusion
 
