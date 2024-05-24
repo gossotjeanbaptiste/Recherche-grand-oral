@@ -38,10 +38,14 @@ Citations:
 
 1. **Accroche**
    - Illustration d’une cyberattaque récente ou d’une avancée marquante en IA.
+     * La sortie récente du modèle GPT-4o de OpenAI et l'attaque ridicule de France Travail.  
    - Statistique sur l’augmentation des cyberattaques ou l'adoption de l'IA dans le monde.
+      * 43 millions de personnes touchées par la fuite de données de France Travail.
 2. **Présentation de la problématique**
    - Définition de la cybersécurité et de l'IA.
+      * La cybersécurité est l'ensemble des moyens techniques, organisationnels et humains mis en œuvre pour protéger les systèmes informatiques et les données contre les attaques. L'IA est une discipline de l'informatique qui vise à développer des systèmes capables de simuler l'intelligence humaine.
    - Pourquoi ces sujets sont cruciaux dans un monde hyperconnecté.
+      * L'interconnexion croissante des systèmes et l'explosion des données en ligne rendent la cybersécurité essentielle pour protéger les informations sensibles. L'IA, quant à elle, offre de nouvelles perspectives et soulève des enjeux éthiques majeurs dans de nombreux domaines.
 3. **Annonce du plan**
    - Présentation des grandes parties du plan.
 
@@ -49,7 +53,34 @@ Citations:
 
 1. **Définition et Importance de la Cybersécurité**
    - Ce qu’est la cybersécurité.
+
+      **Définition**:
+      La cybersécurité protège les systèmes informatiques et les données contre les attaques, les dommages et les accès non autorisés.
+
+      **Aspects Techniques**:
+      - **Cryptographie**: Chiffrement des données pour les sécuriser.
+      - **Gestion des Accès**: Contrôle des accès via des mots de passe et l'authentification multifactorielle (MFA).
+      - **Sécurité des Applications**: Développement de logiciels sécurisés.
+
+      **Menaces et Vulnérabilités**:
+      - **Menaces**: Virus, malwares, ransomwares, phishing, attaques DDoS.
+      - **Vulnérabilités**: Failles exploitables dans les systèmes et logiciels.
+
+      **Stratégies de Défense**:
+      - **Détection et Réponse aux Incidents**: Surveillance et réponse rapide aux anomalies.
+      - **Plan de Continuité des Activités**: Maintien des opérations en cas de sinistre.
+      - **Formation et Sensibilisation**: Éducation sur les bonnes pratiques de sécurité.
+
+      **Importance**:
+      Cruciale pour protéger les informations sensibles, assurer la confidentialité, l'intégrité et la disponibilité des données, et maintenir la confiance des utilisateurs et clients. Face à la croissance des cybermenaces, elle est devenue un enjeu majeur pour tous.
+
+      **Sources**:
+      - [Tech.co](https://tech.co)
+      - [Check Point Research](https://research.checkpoint.com)
+      - [IBM Security](https://www.ibm.com/security)
+  
    - Importance croissante avec l’augmentation des données en ligne et des objets connectés.
+         * Les données personnelles et professionnelles sont de plus en plus exposées aux risques de piratage et de vol. Les objets connectés, tels que les voitures autonomes ou les appareils domotiques, nécessitent une protection renforcée pour éviter les intrusions malveillantes.
 2. **Les Menaces Actuelles et Futures**
    - Exemples de cybermenaces : malware, ransomware, phishing, etc.
    - Evolution des menaces avec le développement technologique.
