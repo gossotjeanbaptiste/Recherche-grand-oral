@@ -77,8 +77,6 @@ Citations:
       Cruciale pour protéger les informations sensibles, assurer la confidentialité, l'intégrité et la disponibilité des données, et maintenir la confiance des utilisateurs et clients. Face à la croissance des cybermenaces, elle est devenue un enjeu majeur pour tous.
 
       **Sources**:
-      - [Tech.co](https://tech.co)
-      - [Check Point Research](https://research.checkpoint.com)
       - [IBM Security](https://www.ibm.com/security)
   
    - Importance croissante avec l’augmentation des données en ligne et des objets connectés.
