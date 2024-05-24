@@ -80,7 +80,7 @@ Citations:
       - [IBM Security](https://www.ibm.com/security)
   
    - Importance croissante avec l’augmentation des données en ligne et des objets connectés.
-         * Les données personnelles et professionnelles sont de plus en plus exposées aux risques de piratage et de vol. Les objets connectés, tels que les voitures autonomes ou les appareils domotiques, nécessitent une protection renforcée pour éviter les intrusions malveillantes.
+      * Les données personnelles et professionnelles sont de plus en plus exposées aux risques de piratage et de vol. Les objets connectés, tels que les voitures autonomes ou les appareils domotiques, nécessitent une protection renforcée pour éviter les intrusions malveillantes.
 2. **Les Menaces Actuelles et Futures**
    - Exemples de cybermenaces : malware, ransomware, phishing, etc.
    - Evolution des menaces avec le développement technologique.
