@@ -64,15 +64,15 @@ Citations:
 
       **Fonctionnement** :
      1. **Clés** :
-      - Deux nombres premiers `\( p \)` et `\( q \)` sont choisis.
-      - Calcul de `\( n = p \times q \)` (partie de la clé publique).
-      - Calcul de `\( e \)` (exposant de chiffrement) et de `\( d \)` (exposant de déchiffrement).
+      - Deux nombres premiers $p$ et $q$ sont choisis.
+      - Calcul de $n = p \times q$ (partie de la clé publique).
+      - Calcul de $e$ (exposant de chiffrement) et de $d$ (exposant de déchiffrement).
 
      2. **Chiffrement** :
-      - Le message `\( M \)` est chiffré avec `\( (n, e) \)` : `\( C = M^e \mod n \)`.
+      - Le message $M$ est chiffré avec $(n, e)$ : $(C = M^e \mod n)$.
 
      3. **Déchiffrement** :
-      - Le message chiffré `\( C \)` est déchiffré avec `\( (n, d) \)` : `\( M = C^d \mod n \)`.
+      - Le message chiffré $C$ est déchiffré avec $(n, d)$ : $( M = C^d \mod n)$.
 
       **Sécurité** :
       Repose sur la difficulté de factoriser de grands nombres.
