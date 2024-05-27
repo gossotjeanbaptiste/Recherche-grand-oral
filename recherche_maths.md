@@ -47,11 +47,9 @@ Citations:
 2. **Exemples de Fonctions Utilisées en Cryptographie**
    - Algorithmes de chiffrement symétrique : AES, DES.
      * DES : Data Encryption Standard, l'un des premiers algorithmes de chiffrement symétrique, remplacé par AES en raison de sa vulnérabilité aux attaques par force brute.
-
       <img src="Capture d'écran 2024-05-27 134353.png" alt="fonctionnement DES"/>
 
       * AES : Advanced Encryption Standard, utilisé pour le chiffrement de données sensibles. Utilisé par le gouvernement américain pour protéger les informations classifiées.
-
       <img src="Capture d'écran 2024-05-27 134839.png" alt="fonctionnement AES"/>
 
    > Ces deux algorithmes sont des algorithmes de chiffrages par bloc de taille fixe. Ils utilisent des substitutions et des permutations pour chiffrer les données.
