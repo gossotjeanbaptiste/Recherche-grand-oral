@@ -56,6 +56,33 @@ Citations:
 
    > Ces deux algorithmes sont des algorithmes de chiffrages par bloc de taille fixe. Ils utilisent des substitutions et des permutations pour chiffrer les données.
    - Algorithmes de chiffrement asymétrique : RSA, ECC (Elliptic Curve Cryptography).
+      * ### Chiffrement RSA : Résumé Très Court
+
+      **RSA** est un algorithme de cryptographie asymétrique utilisant deux clés :
+      - **Clé publique** : pour chiffrer les messages.
+      - **Clé privée** : pour déchiffrer les messages.
+
+      **Fonctionnement** :
+     1. **Clés** :
+      - Deux nombres premiers \( p \) et \( q \) sont choisis.
+      - Calcul de \( n = p \times q \) (partie de la clé publique).
+      - Calcul de \( e \) (exposant de chiffrement) et de \( d \) (exposant de déchiffrement).
+
+     2. **Chiffrement** :
+      - Le message \( M \) est chiffré avec \( (n, e) \) : \( C = M^e \mod n \).
+
+     3. **Déchiffrement** :
+      - Le message chiffré \( C \) est déchiffré avec \( (n, d) \) : \( M = C^d \mod n \).
+
+      **Sécurité** :
+      Repose sur la difficulté de factoriser de grands nombres.
+
+      **Utilisations** :
+      - Sécurisation des communications (HTTPS).
+      - Signatures numériques.
+      - Chiffrement des emails.
+
+      RSA est fiable et essentiel pour sécuriser les données.
 3. **Propriétés Mathématiques Importantes pour le Chiffrement**
    - Propriétés nécessaires : non-inversibilité, complexité calculatoire, collisions, etc.
    - Importance de la théorie des nombres et des mathématiques discrètes.
