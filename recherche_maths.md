@@ -26,11 +26,15 @@ Citations:
 1. **Accroche**
    - Exemple d'un chiffrement célèbre (comme le RSA) ou une anecdote historique sur le chiffrement.
       * RSA : Chiffrement asymétrique inventé en 1977 par Rivest, Shamir et Adleman.
+      * Le chiffre de César est l'un des plus anciens systèmes de chiffrement, utilisé par Jules César pour sécuriser ses communications militaires. Il consiste à décaler chaque lettre d'un message par un nombre fixe de places dans l'alphabet. Par exemple, avec un décalage de trois, "A" devient "D". Ce système, bien que simple par rapport aux standards actuels, a joué un rôle important dans l'histoire de la cryptographie et continue d'être étudié aujourd'hui pour son importance historique et éducative.
    - Statistique sur l'importance de la sécurité des données dans le monde numérique actuel.
       * 43 % des cyberattaques ciblent les petites entreprises (source : [Verizon](https://www.verizon.com/business/resources/articles/small-business-cyber-security-and-data-breaches/)).
 2. **Présentation de la problématique**
    - Définition du chiffrement et des fonctions mathématiques utilisées.
+      * Chiffrement : Processus de conversion de données en un format illisible avec la clé de déchiffrement correspondante.
+      * Les fonctions utilisés sont les fonctions usuelles (logarithme, exponentielle, pôlynome de degré n).
    - Importance de la question dans le contexte actuel de la cybersécurité.
+      * Les attaques informatiques sont de plus en plus sophistiquées et nécessitent des systèmes de chiffrement robustes pour protéger les données sensibles.
 3. **Annonce du plan**
    - Présentation des grandes parties du plan.
 
@@ -38,6 +42,7 @@ Citations:
 
 1. **Définition et Types de Fonctions Mathématiques Utilisées**
    - Explication des fonctions mathématiques (fonctions arithmétiques, algébriques, logarithmiques, etc.).
+      * Qu'est qu'une fonction ? Une fonction c'est un objet mathématique qui permet de mettre en correspondance une valeur x et son image y par des calculs. 
    - Introduction aux concepts de cryptographie : chiffrement symétrique et asymétrique.
 2. **Exemples de Fonctions Utilisées en Cryptographie**
    - Algorithmes de chiffrement symétrique : AES, DES.
