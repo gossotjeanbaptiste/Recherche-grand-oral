@@ -42,7 +42,7 @@ Citations:
 
 1. **Définition et Types de Fonctions Mathématiques Utilisées**
    - Explication des fonctions mathématiques (fonctions arithmétiques, algébriques, logarithmiques, etc.).
-      * Qu'est qu'une fonction ? Une fonction c'est un objet mathématique qui permet de mettre en correspondance une valeur x et son image y par des calculs. 
+      > Qu'est qu'une fonction ? Une fonction c'est un objet mathématique qui permet de mettre en correspondance quelque chose et qui lui associe autre chose. Par exemple, une fonction peut prendre un nombre en entrée et lui associer un autre nombre en sortie. (Ca peut-être pas mal de pas le sortir et de potentiellement avoir une question là-dessus). 
    - Introduction aux concepts de cryptographie : chiffrement symétrique et asymétrique.
 2. **Exemples de Fonctions Utilisées en Cryptographie**
    - Algorithmes de chiffrement symétrique : AES, DES.
