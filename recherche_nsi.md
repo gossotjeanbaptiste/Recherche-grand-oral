@@ -38,7 +38,7 @@ Citations:
 
 1. **Accroche**
    - Illustration d’une cyberattaque récente ou d’une avancée marquante en IA.
-     * La sortie récente du modèle GPT-4o de OpenAI et l'attaque ridicule de France Travail.  
+      * La sortie récente du modèle GPT-4o de OpenAI et l'attaque ridicule de France Travail.  
    - Statistique sur l’augmentation des cyberattaques ou l'adoption de l'IA dans le monde.
       * 43 millions de personnes touchées par la fuite de données de France Travail.
 2. **Présentation de la problématique**
@@ -83,7 +83,33 @@ Citations:
       * Les données personnelles et professionnelles sont de plus en plus exposées aux risques de piratage et de vol. Les objets connectés, tels que les voitures autonomes ou les appareils domotiques, nécessitent une protection renforcée pour éviter les intrusions malveillantes.
 2. **Les Menaces Actuelles et Futures**
    - Exemples de cybermenaces : malware, ransomware, phishing, etc.
+   - Ransomware Wannacry qui à fait beaucoup de bruit en 2017 qui avait en target les utilisateurs de Windows 10 et chiffrait leur donnée et celui-ci demandais un payement en cryptomonnaie pour les déchiffrer.
    - Evolution des menaces avec le développement technologique.
+   - ### Évolution des Menaces avec le Développement Technologique : Résumé
+
+   1. **Ransomwares** :
+      - Les attaques de ransomwares ont augmenté de 102% entre 2020 et 2021, ciblant des infrastructures critiques comme les hôpitaux【16†source】.
+
+   2. **Phishing et Manipulation de l'Identité** :
+      - 90% des violations de données sont dues à des attaques de phishing, souvent via des emails frauduleux【17†source】.
+      - Augmentation des attaques de SIM-swapping et contournement de l'authentification multifactorielle【15†source】.
+
+   3. **Cloud et IoT** :
+      - Les intrusions dans les environnements cloud ont augmenté de 75%, les cybercriminels utilisant des identifiants valides【15†source】.
+      - L'Internet des objets (IoT) a élargi la surface d'attaque, offrant plus d'opportunités aux cybercriminels.
+
+   4. **IA pour les Cybercriminels** :
+      - Près de 20% des entreprises utilisent l'IA pour la cybersécurité, mais les cybercriminels utilisent aussi l'IA pour des attaques plus sophistiquées【19†source】.
+
+   5. **Technologies Quantiques** :
+      - Les ordinateurs quantiques menacent les algorithmes de cryptographie actuels comme RSA【15†source】.
+      - La cryptographie post-quantique est en développement pour contrer ces menaces futures.
+
+   6. **Menaces Intérieures et Erreurs Humaines** :
+      - Les menaces internes et les erreurs humaines restent une préoccupation majeure, surtout avec l'augmentation du travail à distance【19†source】.
+
+   ### Conclusion
+   - Les avancées technologiques ont intensifié les cybermenaces, nécessitant des mesures de cybersécurité avancées et une formation continue pour contrer les attaques en constante évolution.
 3. **Mesures de Protection et Stratégies de Cybersécurité**
    - Techniques de protection : cryptographie, pare-feu, etc.
    - Rôle des gouvernements et des entreprises dans la protection des données.
@@ -94,7 +120,25 @@ Citations:
 
 1. **Définition et Applications de l’IA**
    - Ce qu’est l’IA et ses principales applications.
+   - L'Intelligence Artificielle (IA) est un sous-domaine de l'informatique qui vise à créer des systèmes capables de réaliser des tâches qui nécessitent normalement l'intelligence humaine. Cela inclut l'apprentissage (la capacité d'apprendre et d'améliorer les performances à partir de l'expérience), le raisonnement (la capacité de résoudre des problèmes), la perception (la capacité de comprendre et d'interpréter le monde réel), et le traitement du langage naturel (la capacité de comprendre et de générer un langage humain).
+
+   Voici quelques-unes des principales applications de l'IA :
+
+   1. **Santé** : L'IA est utilisée pour prédire les maladies, aider au diagnostic, personnaliser le traitement, et même pour la recherche de nouveaux médicaments.
+
+   2. **Finance** : L'IA est utilisée pour la détection de la fraude, la gestion des risques, l'investissement, et le conseil financier.
+
+   3. **Transports** : L'IA est au cœur des véhicules autonomes. Elle est également utilisée pour optimiser la logistique et la gestion du trafic.
+
+   4. **Cybersécurité** : L'IA peut aider à détecter et à prévenir les cyberattaques en temps réel.
+
+   5. **Commerce** : L'IA est utilisée pour la recommandation de produits, la prévision des ventes, le service client, et la personnalisation du marketing.
+
+   6. **Éducation** : L'IA peut aider à personnaliser l'apprentissage en adaptant le matériel aux besoins et au rythme de chaque élève.
+
+   Ces exemples ne sont que la pointe de l'iceberg. L'IA a le potentiel de transformer presque tous les aspects de notre vie quotidienne.
    - Utilisation de l’IA dans divers domaines : santé, finance, transports, etc.
+  
 2. **Les Bénéfices de l’IA pour la Cybersécurité**
    - Comment l’IA peut améliorer la cybersécurité : détection des menaces, automatisation des réponses, etc.
    - Exemples concrets de solutions IA en cybersécurité.
