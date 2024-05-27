@@ -95,7 +95,7 @@ Citations:
       - Augmentation des attaques de SIM-swapping et contournement de l'authentification multifactorielle.
 
    3. **Cloud et IoT** :
-      - Les intrusions dans les environnements cloud ont augmenté de 75%, les cybercriminels utilisant des identifiants valides【15†source】.
+      - Les intrusions dans les environnements cloud ont augmenté de 75%, les cybercriminels utilisant des identifiants.
       - L'Internet des objets (IoT) a élargi la surface d'attaque, offrant plus d'opportunités aux cybercriminels.
 
    4. **IA pour les Cybercriminels** :
