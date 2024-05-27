@@ -25,7 +25,9 @@ Citations:
 
 1. **Accroche**
    - Exemple d'un chiffrement célèbre (comme le RSA) ou une anecdote historique sur le chiffrement.
+      * RSA : Chiffrement asymétrique inventé en 1977 par Rivest, Shamir et Adleman.
    - Statistique sur l'importance de la sécurité des données dans le monde numérique actuel.
+      * 43 % des cyberattaques ciblent les petites entreprises (source : [Verizon](https://www.verizon.com/business/resources/articles/small-business-cyber-security-and-data-breaches/)).
 2. **Présentation de la problématique**
    - Définition du chiffrement et des fonctions mathématiques utilisées.
    - Importance de la question dans le contexte actuel de la cybersécurité.
