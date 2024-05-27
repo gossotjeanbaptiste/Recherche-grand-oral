@@ -88,25 +88,25 @@ Citations:
    - ### Évolution des Menaces avec le Développement Technologique : Résumé
 
    1. **Ransomwares** :
-      - Les attaques de ransomwares ont augmenté de 102% entre 2020 et 2021, ciblant des infrastructures critiques comme les hôpitaux【16†source】.
+      - Les attaques de ransomwares ont augmenté de 102% entre 2020 et 2021, ciblant des infrastructures critiques comme les hôpitaux.
 
    2. **Phishing et Manipulation de l'Identité** :
-      - 90% des violations de données sont dues à des attaques de phishing, souvent via des emails frauduleux【17†source】.
-      - Augmentation des attaques de SIM-swapping et contournement de l'authentification multifactorielle【15†source】.
+      - 90% des violations de données sont dues à des attaques de phishing, souvent via des emails frauduleux.
+      - Augmentation des attaques de SIM-swapping et contournement de l'authentification multifactorielle.
 
    3. **Cloud et IoT** :
       - Les intrusions dans les environnements cloud ont augmenté de 75%, les cybercriminels utilisant des identifiants valides【15†source】.
       - L'Internet des objets (IoT) a élargi la surface d'attaque, offrant plus d'opportunités aux cybercriminels.
 
    4. **IA pour les Cybercriminels** :
-      - Près de 20% des entreprises utilisent l'IA pour la cybersécurité, mais les cybercriminels utilisent aussi l'IA pour des attaques plus sophistiquées【19†source】.
+      - Près de 20% des entreprises utilisent l'IA pour la cybersécurité, mais les cybercriminels utilisent aussi l'IA pour des attaques plus sophistiquées.
 
    5. **Technologies Quantiques** :
-      - Les ordinateurs quantiques menacent les algorithmes de cryptographie actuels comme RSA【15†source】.
+      - Les ordinateurs quantiques menacent les algorithmes de cryptographie actuels comme RSA.
       - La cryptographie post-quantique est en développement pour contrer ces menaces futures.
 
    6. **Menaces Intérieures et Erreurs Humaines** :
-      - Les menaces internes et les erreurs humaines restent une préoccupation majeure, surtout avec l'augmentation du travail à distance【19†source】.
+      - Les menaces internes et les erreurs humaines restent une préoccupation majeure, surtout avec l'augmentation du travail à distance.
 
    ### Conclusion
    - Les avancées technologiques ont intensifié les cybermenaces, nécessitant des mesures de cybersécurité avancées et une formation continue pour contrer les attaques en constante évolution.
