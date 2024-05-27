@@ -55,8 +55,8 @@ Citations:
       <img src="Capture d'écran 2024-05-27 134839.png" alt="fonctionnement AES"/>
 
    > Ces deux algorithmes sont des algorithmes de chiffrages par bloc de taille fixe. Ils utilisent des substitutions et des permutations pour chiffrer les données.
-   - Algorithmes de chiffrement asymétrique : RSA, ECC (Elliptic Curve Cryptography).
-      * ### Chiffrement RSA : Résumé Très Court
+   - Algorithmes de chiffrement asymétrique : RSA.
+      * ### Chiffrement RSA
 
       **RSA** est un algorithme de cryptographie asymétrique utilisant deux clés :
       - **Clé publique** : pour chiffrer les messages.
@@ -86,6 +86,19 @@ Citations:
 3. **Propriétés Mathématiques Importantes pour le Chiffrement**
    - Propriétés nécessaires : non-inversibilité, complexité calculatoire, collisions, etc.
    - Importance de la théorie des nombres et des mathématiques discrètes.
+      Bien sûr, voici des précisions sur les points mentionnés :
+
+   a. **Non-inversibilité**:
+   - Dans le contexte du chiffrement, la non-inversibilité fait référence au fait qu'il doit être difficile, voire impossible, de retrouver le texte en clair à partir du texte chiffré sans posséder la clé de déchiffrement appropriée. En d'autres termes, le processus de chiffrement doit être irréversible sans la clé. Cela garantit que même si un attaquant intercepte le texte chiffré, il ne peut pas le déchiffrer sans la clé correspondante.
+
+   b. **Complexité calculatoire**:
+   - La complexité calculatoire se réfère à la difficulté d'effectuer certaines opérations mathématiques associées au chiffrement, telles que la factorisation de grands nombres en cryptographie asymétrique (comme dans le cas du RSA) ou la recherche de collisions dans les fonctions de hachage. Une propriété souhaitée des algorithmes de chiffrement est qu'ils soient difficiles à casser même avec des ressources de calcul importantes, comme celles disponibles pour les supercalculateurs.
+
+   c. **Collisions**:
+   - Dans le contexte des fonctions de hachage utilisées en cryptographie, une collision se produit lorsqu'il existe deux entrées différentes qui produisent le même résultat de hachage. Les fonctions de hachage doivent être conçues de manière à minimiser le risque de collisions, car celles-ci pourraient être exploitées pour compromettre la sécurité des systèmes cryptographiques. Par exemple, si deux messages différents produisent le même condensé de hachage, un attaquant pourrait substituer un message par un autre sans être détecté.
+
+   d. **Théorie des nombres et mathématiques discrètes**:
+   - La théorie des nombres et les mathématiques discrètes fournissent la base mathématique essentielle pour de nombreux algorithmes de chiffrement. Par exemple, la factorisation des grands nombres premiers est utilisée dans RSA, tandis que les courbes elliptiques, qui sont des structures algébriques, sont utilisées dans la cryptographie à courbes elliptiques. Ces domaines mathématiques fournissent des outils pour concevoir des algorithmes robustes et sécurisés en exploitant des propriétés spécifiques des nombres entiers et des structures discrètes.
 
 ### II. Efficacité des Fonctions Mathématiques comme Outils de Chiffrement
 
