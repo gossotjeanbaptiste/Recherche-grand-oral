@@ -107,6 +107,7 @@ Citations:
    - Efficacité du RSA : sécurité basée sur la factorisation des grands nombres.
      - Prenons exemple de la factorisation de 15 : $3 \times 5 = 15$. C'est facile à faire. Mais si on prend un nombre beaucoup plus grand, comme 15 chiffres, c'est beaucoup plus difficile à faire. C'est ce qui rend le RSA sécurisé. Par exemple $24 568 565$ c'est $5\times 7\times 67 \times 10477$
    - Efficacité de l'AES : rapidité et sécurité basée sur les substitutions et permutations.
+     - Prenons exemple des substitutions et permutations de 15, ce qui donnerait $15! = 15 \times 14 \times 13 \times 12 \times 11 \times 10 \times 9 \times 8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 = 1 \ 307 \ 674 \ 368 \ 000$. C'est beaucoup plus difficile à faire que de factoriser 15. C'est ce qui rend l'AES sécurisé.
 3. **Limitations et Vulnérabilités**
    - Problèmes potentiels : attaques quantiques (impact sur RSA), faiblesses dans les implémentations (side-channel attacks).
    - Importance de la mise à jour et de l'évolution des algorithmes face aux nouvelles menaces.
