@@ -98,10 +98,14 @@ Citations:
 
 1. **Critères d’Efficacité**
    - Sécurité : résistance aux attaques (brute force, analyse cryptographique, etc.).
+     - Il faut pas que ce soit cassable facilement (c'est-à-dire qu'il faut que ce soit difficile de retrouver le message en clair à partir du message chiffré).
    - Performance : rapidité et efficacité de l'algorithme.
+     - Il faut que l'algorithme soit rapide pour chiffrer les messages et que décrypter celui-ci soit le plus long possible.
    - Scalabilité : capacité à gérer de grandes quantités de données.
+     - Il faut que l'algorithme en question soit capable de chiffrer et de déchiffrer des messages de tailles différentes et que sa limite sois rarement atteinte. 
 2. **Analyse de Cas Pratiques**
    - Efficacité du RSA : sécurité basée sur la factorisation des grands nombres.
+     - Prenons exemple de la factorisation de 15 : $3 *\times 5 = 15$. C'est facile à faire. Mais si on prend un nombre beaucoup plus grand, comme 15 chiffres, c'est beaucoup plus difficile à faire. C'est ce qui rend le RSA sécurisé. Par exemple $24 568 565$ c'est $5\times 7\times 67 \times 10477$
    - Efficacité de l'AES : rapidité et sécurité basée sur les substitutions et permutations.
 3. **Limitations et Vulnérabilités**
    - Problèmes potentiels : attaques quantiques (impact sur RSA), faiblesses dans les implémentations (side-channel attacks).
