@@ -81,7 +81,6 @@ Citations:
 3. **Propriétés Mathématiques Importantes pour le Chiffrement**
    - Propriétés nécessaires : non-inversibilité, complexité calculatoire, collisions, etc.
    - Importance de la théorie des nombres et des mathématiques discrètes.
-      Bien sûr, voici des précisions sur les points mentionnés :
 
    a. **Non-inversibilité**:
    - Dans le contexte du chiffrement, la non-inversibilité fait référence au fait qu'il doit être difficile, voire impossible, de retrouver le texte en clair à partir du texte chiffré sans posséder la clé de déchiffrement appropriée. En d'autres termes, le processus de chiffrement doit être irréversible sans la clé. Cela garantit que même si un attaquant intercepte le texte chiffré, il ne peut pas le déchiffrer sans la clé correspondante.
