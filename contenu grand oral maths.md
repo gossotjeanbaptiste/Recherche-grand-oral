@@ -35,17 +35,17 @@
       - Le message $M$ est chiffré avec $(n, e)$ : $(C = M^e \equiv n)$.
 
      3. **Déchiffrement** :
-      - Le message chiffré $C$ est déchiffré avec $(n, d)$ : $$( M = C^d \equiv n)$$.
+      - Le message chiffré $C$ est déchiffré avec $(n, d)$ : $( M = C^d \equiv n)$.
 
-      **Sécurité** :
-      Repose sur la difficulté de factoriser de grands nombres.
+        **Sécurité** :
+        Repose sur la difficulté de factoriser de grands nombres.
 
-      **Utilisations** :
-      - Sécurisation des communications (HTTPS).
-      - Signatures numériques.
-      - Chiffrement des emails.
+        **Utilisations** :
+        - Sécurisation des communications (HTTPS).
+        - Signatures numériques.
+        - Chiffrement des emails.
 
-      RSA est fiable et essentiel pour sécuriser les données.
+        RSA est fiable et essentiel pour sécuriser les données.
 
      a. **Non-inversibilité**:
    - Dans le contexte du chiffrement, la non-inversibilité fait référence au fait qu'il doit être difficile, voire impossible, de retrouver le texte en clair à partir du texte chiffré sans posséder la clé de déchiffrement appropriée. En d'autres termes, le processus de chiffrement doit être irréversible sans la clé. Cela garantit que même si un attaquant intercepte le texte chiffré, il ne peut pas le déchiffrer sans la clé correspondante.
