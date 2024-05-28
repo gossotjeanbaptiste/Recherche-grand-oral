@@ -64,10 +64,10 @@ Citations:
       - Calcul de $e$ (exposant de chiffrement) et de $d$ (exposant de déchiffrement).
 
      2. **Chiffrement** :
-      - Le message $M$ est chiffré avec $(n, e)$ : $(C = M^e \mod n)$.
+      - Le message $M$ est chiffré avec $(n, e)$ : $(C = M^e \equiv n)$.
 
      3. **Déchiffrement** :
-      - Le message chiffré $C$ est déchiffré avec $(n, d)$ : $( M = C^d \mod n)$.
+      - Le message chiffré $C$ est déchiffré avec $(n, d)$ : $( M = C^d \equiv n)$.
 
       **Sécurité** :
       Repose sur la difficulté de factoriser de grands nombres.
