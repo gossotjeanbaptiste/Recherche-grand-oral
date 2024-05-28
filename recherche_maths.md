@@ -175,5 +175,6 @@ Citations:
      - Les "hackeurs" trouvent de plus en plus de manière plus ou moins sofistiquées pour casser les algorithmes de chiffrement. Il est donc important de continuer à innover pour renforcer la sécurité des données.
 2. **Ouverture**
    - Question ouverte sur l'avenir des techniques de chiffrement face aux progrès technologiques.
-     - 
+     - Au fur et à mesure que les technologies évoluent, comment les techniques de chiffrement vont-elles s'adapter pour garantir la sécurité des données ?
    - Invitation à réfléchir sur l'équilibre entre sécurité, performance et éthique dans l’utilisation des technologies de chiffrement.
+     - C'est une question sur laquelle il faut réfléchir. Comment trouver un équilibre entre la sécurité, la performance et l'éthique dans l'utilisation des technologies de chiffrement ?
