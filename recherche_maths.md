@@ -150,21 +150,30 @@ Citations:
 
 ### III. Perspectives Futures et Innovations
 
-1. **Cryptographie Post-Quantique**
-   - Défis posés par les ordinateurs quantiques aux algorithmes actuels.
-   - Nouveaux algorithmes résistants aux attaques quantiques : Lattice-based cryptography, Hash-based cryptography, etc.
-2. **Avancées en Mathématiques et Algorithmes**
+1. **Avancées en Mathématiques et Algorithmes**
    - Innovations mathématiques pour renforcer la sécurité des algorithmes de chiffrement.
+     - SHA-3 est une fonction de hachage cryptographique standardisée par le NIST en 2015, offrant une alternative plus sécurisée à SHA-2. Ses principales différences et avantages par rapport à SHA-2 incluent une structure algébrique différente basée sur le Keccak sponge function, une résilience accrue aux attaques, une flexibilité de paramétrage et une sécurité théorique supplémentaire. Bien que SHA-2 reste largement utilisé, SHA-3 représente une option précieuse pour une sécurité renforcée dans la cryptographie moderne.
    - Recherche continue pour trouver des algorithmes plus efficaces et sécurisés.
-3. **Implications Éthiques et Réglementaires**
+     - SHA-3 en est une preuve. Il y a toujours des recherches pour trouver des algorithmes plus efficaces et sécurisés.
+2. **Implications Éthiques et Réglementaires**
    - Conséquences de l'évolution des algorithmes de chiffrement sur la vie privée et la sécurité.
+     - L'évolution des algorithmes de chiffrement a des conséquences majeures sur la vie privée et la sécurité. D'une part, elle renforce la confidentialité des données personnelles, protège les communications contre la surveillance et prévient les violations de données. D'autre part, elle améliore la sécurité des transactions en ligne et résiste à un large éventail d'attaques. Cependant, le débat sur l'accès aux données chiffrées pour des raisons de sécurité nationale soulève des préoccupations quant à la préservation de la vie privée. Malgré ces défis, il est essentiel de trouver un équilibre entre la protection de la vie privée individuelle et la sécurité globale.
    - Importance des régulations pour assurer une utilisation responsable des technologies de chiffrement.
+     - L'intégration de régulations dans les technologies de chiffrement est cruciale pour plusieurs raisons. Tout d'abord, ces régulations protègent la vie privée en établissant des normes de confidentialité des données et en limitant la surveillance abusive. De plus, elles garantissent la sécurité des données en imposant des standards de protection et en prévenant les violations de données. Les régulations favorisent également l'équité et la transparence en interdisant la discrimination et en exigeant une responsabilité accrue dans l'utilisation des algorithmes. Enfin, elles contribuent à une harmonisation internationale des normes, facilitant ainsi la coopération mondiale en matière de sécurité et de protection des données. En somme, les régulations assurent que les technologies de chiffrement sont utilisées de manière responsable, éthique et bénéfique pour tous.
 
 ### Conclusion
 
 1. **Synthèse des Points Clés**
    - Récapitulatif des critères d’efficacité des fonctions mathématiques dans le chiffrement.
+     - Rapide
+     - Sécurisé
+     - Scalable
+     - Non-inversible
+     - Complexité calculatoire
+     - Pas de collisions
    - Importance de la sécurité et de l'innovation continue.
+     - Les "hackeurs" trouvent de plus en plus de manière plus ou moins sofistiquées pour casser les algorithmes de chiffrement. Il est donc important de continuer à innover pour renforcer la sécurité des données.
 2. **Ouverture**
    - Question ouverte sur l'avenir des techniques de chiffrement face aux progrès technologiques.
+     - 
    - Invitation à réfléchir sur l'équilibre entre sécurité, performance et éthique dans l’utilisation des technologies de chiffrement.
