@@ -84,36 +84,36 @@ Citations:
       * Les données personnelles et professionnelles sont de plus en plus exposées aux risques de piratage et de vol. Les objets connectés, tels que les voitures autonomes ou les appareils domotiques, nécessitent une protection renforcée pour éviter les intrusions malveillantes.
 2. **Les Menaces Actuelles et Futures**
    - Exemples de cybermenaces : malware, ransomware, phishing, etc.
-   - Ransomware Wannacry qui à fait beaucoup de bruit en 2017 qui avait en target les utilisateurs de Windows 10 et chiffrait leur donnée et celui-ci demandais un payement en cryptomonnaie pour les déchiffrer.
-   - Evolution des menaces avec le développement technologique.
-   - ### Évolution des Menaces avec le Développement Technologique : Résumé
+     - Ransomware Wannacry qui à fait beaucoup de bruit en 2017 qui avait en target les utilisateurs de Windows 10 et chiffrait leur donnée et celui-ci demandais un payement en cryptomonnaie pour les déchiffrer.
+     - Evolution des menaces avec le développement technologique.
+     - ### Évolution des Menaces avec le Développement Technologique : Résumé
 
-   1. **Ransomwares** :
-      - Les attaques de ransomwares ont augmenté de 102% entre 2020 et 2021, ciblant des infrastructures critiques comme les hôpitaux.
+     1. **Ransomwares** :
+        - Les attaques de ransomwares ont augmenté de 102% entre 2020 et 2021, ciblant des infrastructures critiques comme les hôpitaux.
 
-   2. **Phishing et Manipulation de l'Identité** :
-      - 90% des violations de données sont dues à des attaques de phishing, souvent via des emails frauduleux.
-      - Augmentation des attaques de SIM-swapping et contournement de l'authentification multifactorielle.
+     2. **Phishing et Manipulation de l'Identité** :
+        - 90% des violations de données sont dues à des attaques de phishing, souvent via des emails frauduleux.
+        - Augmentation des attaques de SIM-swapping et contournement de l'authentification multifactorielle.
 
-   3. **Cloud et IoT** :
-      - Les intrusions dans les environnements cloud ont augmenté de 75%, les cybercriminels utilisant des identifiants.
-      - L'Internet des objets (IoT) a élargi la surface d'attaque, offrant plus d'opportunités aux cybercriminels.
+     3. **Cloud et IoT** :
+        - Les intrusions dans les environnements cloud ont augmenté de 75%.
+        - L'Internet des objets (IoT) a élargi la surface d'attaque, offrant plus d'opportunités aux cybercriminels.
 
-   4. **IA pour les Cybercriminels** :
-      - Près de 20% des entreprises utilisent l'IA pour la cybersécurité, mais les cybercriminels utilisent aussi l'IA pour des attaques plus sophistiquées.
+     4. **IA pour les Cybercriminels** :
+        - Près de 20% des entreprises utilisent l'IA pour la cybersécurité, mais les cybercriminels utilisent aussi l'IA pour des attaques plus sophistiquées.
 
-   5. **Technologies Quantiques** :
-      - Les ordinateurs quantiques menacent les algorithmes de cryptographie actuels comme RSA.
-      - La cryptographie post-quantique est en développement pour contrer ces menaces futures.
+     5. **Menaces Intérieures et Erreurs Humaines** :
+        - Les menaces internes et les erreurs humaines restent une préoccupation majeure, surtout avec l'augmentation du travail à distance.
 
-   6. **Menaces Intérieures et Erreurs Humaines** :
-      - Les menaces internes et les erreurs humaines restent une préoccupation majeure, surtout avec l'augmentation du travail à distance.
-
-   ### Conclusion
-   - Les avancées technologiques ont intensifié les cybermenaces, nécessitant des mesures de cybersécurité avancées et une formation continue pour contrer les attaques en constante évolution.
+     ### Conclusion
+     - Les avancées technologiques ont intensifié les cybermenaces, nécessitant des mesures de cybersécurité avancées et une formation continue pour contrer les attaques en constante évolution.
 3. **Mesures de Protection et Stratégies de Cybersécurité**
    - Techniques de protection : cryptographie, pare-feu, etc.
+     - Utilisation d'un gestionnaire de mot de passe
+     - Activer la double authentification
+     - Avoir des mots de passes long et différent sur chaque site 
    - Rôle des gouvernements et des entreprises dans la protection des données.
+       - Insister sur les points cités précedemment. 
 
 ---
 
@@ -121,31 +121,66 @@ Citations:
 
 1. **Définition et Applications de l’IA**
    - Ce qu’est l’IA et ses principales applications.
-   - L'Intelligence Artificielle (IA) est un sous-domaine de l'informatique qui vise à créer des systèmes capables de réaliser des tâches qui nécessitent normalement l'intelligence humaine. Cela inclut l'apprentissage (la capacité d'apprendre et d'améliorer les performances à partir de l'expérience), le raisonnement (la capacité de résoudre des problèmes), la perception (la capacité de comprendre et d'interpréter le monde réel), et le traitement du langage naturel (la capacité de comprendre et de générer un langage humain).
+     - L'Intelligence Artificielle (IA) est un sous-domaine de l'informatique qui vise à créer des systèmes capables de réaliser des tâches qui nécessitent normalement l'intelligence humaine. Cela inclut l'apprentissage (la capacité d'apprendre et d'améliorer les performances à partir de l'expérience), le raisonnement (la capacité de résoudre des problèmes), la perception (la capacité de comprendre et d'interpréter le monde réel), et le traitement du langage naturel (la capacité de comprendre et de générer un langage humain).
 
-   Voici quelques-unes des principales applications de l'IA :
+     Voici quelques-unes des principales applications de l'IA :
 
-   1. **Santé** : L'IA est utilisée pour prédire les maladies, aider au diagnostic, personnaliser le traitement, et même pour la recherche de nouveaux médicaments.
+     1. **Santé** : L'IA est utilisée pour prédire les maladies, aider au diagnostic, personnaliser le traitement, et même pour la recherche de nouveaux médicaments.
 
-   2. **Finance** : L'IA est utilisée pour la détection de la fraude, la gestion des risques, l'investissement, et le conseil financier.
+     2. **Finance** : L'IA est utilisée pour la détection de la fraude, la gestion des risques, l'investissement, et le conseil financier.
 
-   3. **Transports** : L'IA est au cœur des véhicules autonomes. Elle est également utilisée pour optimiser la logistique et la gestion du trafic.
+     3. **Transports** : L'IA est au cœur des véhicules autonomes. Elle est également utilisée pour optimiser la logistique et la gestion du trafic.
 
-   4. **Cybersécurité** : L'IA peut aider à détecter et à prévenir les cyberattaques en temps réel.
+     4. **Cybersécurité** : L'IA peut aider à détecter et à prévenir les cyberattaques en temps réel.
 
-   5. **Commerce** : L'IA est utilisée pour la recommandation de produits, la prévision des ventes, le service client, et la personnalisation du marketing.
+     5. **Commerce** : L'IA est utilisée pour la recommandation de produits, la prévision des ventes, le service client, et la personnalisation du marketing.
 
-   6. **Éducation** : L'IA peut aider à personnaliser l'apprentissage en adaptant le matériel aux besoins et au rythme de chaque élève.
+     6. **Éducation** : L'IA peut aider à personnaliser l'apprentissage en adaptant le matériel aux besoins et au rythme de chaque élève.
 
-   Ces exemples ne sont que la pointe de l'iceberg. L'IA a le potentiel de transformer presque tous les aspects de notre vie quotidienne.
-   - Utilisation de l’IA dans divers domaines : santé, finance, transports, etc.
-  
+     Ces exemples ne sont que la pointe de l'iceberg. L'IA a le potentiel de transformer presque tous les aspects de notre vie quotidienne.
+     - Utilisation de l’IA dans divers domaines : santé, finance, transports, etc.
+    
 2. **Les Bénéfices de l’IA pour la Cybersécurité**
    - Comment l’IA peut améliorer la cybersécurité : détection des menaces, automatisation des réponses, etc.
+     - Détection du comportement des utilisateurs sur les sites internets.
    - Exemples concrets de solutions IA en cybersécurité.
+     - Authentification quasi automatique des vulnérabilités potentielles
 3. **Risques et Défis Posés par l’IA**
    - Les risques associés à l’IA : biais algorithmiques, attaques IA, éthique, etc.
+      ### 1. Biais algorithmiques
+      - **Nature des biais** : Les systèmes d'IA peuvent refléter les préjugés présents dans les données d'entraînement ou dans les choix de conception.
+      - **Implications** : Discriminations potentielles dans la justice, l'emploi, et la santé.
+
+      ### 2. Attaques IA
+      - **Types d'attaques** : Attaques adversariales, empoisonnement de données, exploitation des failles.
+      - **Implications** : Risques de sécurité, atteintes à la confidentialité, pertes financières.
+
+      ### 3. Questions éthiques
+      - **Principales préoccupations** : Transparence, responsabilité, vie privée, consentement, équité.
+      - **Implications** : Perte de confiance du public, conséquences légales et réglementaires.
+
+      ### Mesures d'atténuation
+      - **Biais algorithmiques** : Utiliser des données diversifiées, audits réguliers, implication humaine.
+      - **Attaques IA** : Sécuriser les données, développer des modèles robustes, surveillance continue.
+      - **Questions éthiques** : Améliorer la transparence, clarifier la responsabilité, protéger la vie privée, éduquer et former.
+
+      En prenant des mesures pour aborder ces risques, nous pouvons maximiser les avantages de l'IA tout en minimisant ses inconvénients.
+
    - Comment ces risques peuvent impacter la cybersécurité.
+     - Les risques associés à l'IA affectent la cybersécurité de plusieurs manières :
+
+      ### Biais algorithmiques
+      - **Détection de menaces** : Des biais dans les systèmes de détection peuvent entraîner des faux positifs ou des faux négatifs, compromettant la capacité à identifier les cyberattaques réelles.
+
+      ### Attaques IA
+      - **Attaques adversariales** : Les attaquants peuvent manipuler les entrées des systèmes d'IA pour contourner les systèmes de sécurité ou pour tromper les algorithmes de détection.
+      - **Empoisonnement de données** : Les cybercriminels peuvent insérer des données malveillantes dans les ensembles de données d'entraînement pour corrompre les modèles d'IA et compromettre la sécurité.
+
+      ### Questions éthiques
+      - **Transparence et explicabilité** : Le manque de transparence dans les décisions des systèmes d'IA peut rendre difficile la compréhension et la correction des vulnérabilités.
+      - **Responsabilité** : Déterminer qui est responsable en cas de défaillance d'un système d'IA dans la cybersécurité peut compliquer la réponse et la gestion des incidents.
+
+      En résumé, les biais algorithmiques peuvent diminuer l'efficacité de la détection de menaces, les attaques IA peuvent exploiter les vulnérabilités des systèmes d'IA, et les questions éthiques peuvent compliquer la gestion de la cybersécurité.
 
 ---
 
@@ -153,13 +188,25 @@ Citations:
 
 1. **Synergies et Complémentarités**
    - Comment la cybersécurité et l’IA peuvent s’enrichir mutuellement.
+     - Comme dit plus tôt, avec la détection de menace, de comportement bizarre des utilisateurs sur les sites web etc...
    - Cas d’usage où l’IA et la cybersécurité collaborent efficacement.
+     - Security Information and Event Management (SIEM) : Un système SIEM amélioré par l'IA intègre des capacités d'analyse des menaces en temps réel. Par exemple, Splunk, un fournisseur de solutions SIEM, utilise des algorithmes d'apprentissage automatique pour analyser les données de sécurité, détecter les anomalies, et automatiser les réponses aux incidents.
 2. **Enjeux Éthiques et Réglementaires**
    - Problèmes éthiques liés à l’utilisation de l’IA en cybersécurité.
+     - Protection des données ?
    - Nécessité de régulations pour encadrer l’usage de l’IA et protéger les droits individuels.
-3. **Perspectives d’Avenir**
-   - Innovations attendues dans le domaine de la cybersécurité et de l’IA.
-   - Importance de l’éducation et de la formation continue pour faire face aux nouveaux défis.
+     - Comme par exemple le RGPD en Europe
+       - Le RGPD impose des règles strictes pour l'utilisation des IA en Europe, visant à protéger les données personnelles des individus. Voici les points clés :
+
+       1. **Base légale** : Toute utilisation de données personnelles par une IA doit avoir une base légale, comme le consentement explicite.
+       2. **Consentement** : Si le consentement est la base légale, il doit être libre, spécifique, éclairé et univoque.
+       3. **Transparence** : Les individus doivent être informés clairement sur l'utilisation de leurs données par les systèmes d'IA.
+       4. **Droits des personnes** : Les personnes ont des droits sur leurs données, comme le droit d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition.
+       5. **Prises de décision automatisées** : Les individus ont le droit de ne pas être soumis à des décisions basées uniquement sur un traitement automatisé, sauf exceptions avec garanties.
+       6. **Protection dès la conception** : Les systèmes d'IA doivent intégrer des mesures de protection des données dès leur conception et par défaut.
+       7. **Évaluation d'impact** : Une évaluation d'impact sur la protection des données (DPIA) est requise pour les traitements susceptibles de présenter un risque élevé.
+
+       Ces règles garantissent une utilisation éthique et légale des systèmes d'IA en protégeant les droits et la vie privée des individus.
 
 ---
 
@@ -167,6 +214,17 @@ Citations:
 
 1. **Synthèse des Points Clés**
    - Récapitulatif des enjeux majeurs liés à la cybersécurité et à l’IA.
+     - ### Enjeux Majeurs Liés à la Cybersécurité et à l'IA
+
+      La cybersécurité, qui protège les systèmes informatiques et les données contre les attaques, est devenue essentielle dans un monde hyperconnecté. L'augmentation des cybermenaces telles que les ransomwares, le phishing et les attaques sur le cloud et l'Internet des objets (IoT) souligne l'importance de stratégies robustes, incluant la cryptographie et la gestion des accès. 
+
+      L'intelligence artificielle (IA), capable de simuler l'intelligence humaine, est utilisée dans divers domaines comme la santé, la finance et les transports. En cybersécurité, l'IA améliore la détection des menaces et automatise les réponses. Cependant, elle pose aussi des risques, notamment les biais algorithmiques et les attaques adversariales.
+
+      La collaboration entre cybersécurité et IA est cruciale. Par exemple, les systèmes de gestion des événements de sécurité (SIEM) améliorés par l'IA permettent une analyse en temps réel et une réponse automatisée aux incidents. 
+
+      Enfin, les enjeux éthiques et réglementaires, tels que ceux imposés par le RGPD en Europe, sont essentiels pour garantir une utilisation responsable et sécurisée de l'IA, protégeant ainsi les droits et la vie privée des individus.
+
 2. **Ouverture**
    - Question ouverte sur l’évolution future de ces domaines.
-   - Invitation à la réflexion sur l’équilibre entre technologie et éthique dans un monde hyperconnecté.
+      - ### Ouverture
+         À mesure que l'IA et la cybersécurité continuent d'évoluer, la frontière entre innovation et vulnérabilité devient de plus en plus ténue. La prochaine grande étape pourrait être l'intégration de l'IA quantique, promettant des capacités de traitement et de détection des menaces encore plus avancées, mais introduisant également des défis de sécurité inédits. Comment les entreprises et les régulateurs vont-ils s'adapter à ces nouvelles réalités technologiques pour garantir un cyberespace sécurisé ? La réponse à cette question déterminera en grande partie la sécurité numérique des années à venir.
