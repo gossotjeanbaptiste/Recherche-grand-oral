@@ -181,15 +181,15 @@
    - Récapitulatif des enjeux majeurs liés à la cybersécurité et à l’IA.
      - ### Enjeux Majeurs Liés à la Cybersécurité et à l'IA
 
-            La cybersécurité, qui protège les systèmes informatiques et les données contre les attaques, est devenue essentielle dans un monde hyperconnecté. L'augmentation des cybermenaces telles que les ransomwares, le phishing et les attaques sur le cloud et l'Internet des objets (IoT) souligne l'importance de stratégies robustes, incluant la cryptographie et la gestion des accès. 
+         La cybersécurité, qui protège les systèmes informatiques et les données contre les attaques, est devenue essentielle dans un monde hyperconnecté. L'augmentation des cybermenaces telles que les ransomwares, le phishing et les attaques sur le cloud et l'Internet des objets (IoT) souligne l'importance de stratégies robustes, incluant la cryptographie et la gestion des accès. 
 
-            L'intelligence artificielle (IA), capable de simuler l'intelligence humaine, est utilisée dans divers domaines comme la santé, la finance et les transports. En cybersécurité, l'IA améliore la détection des menaces et automatise les réponses. Cependant, elle pose aussi des risques, notamment les biais algorithmiques et les attaques adversariales.
+         L'intelligence artificielle (IA), capable de simuler l'intelligence humaine, est utilisée dans divers domaines comme la santé, la finance et les transports. En cybersécurité, l'IA améliore la détection des menaces et automatise les réponses. Cependant, elle pose aussi des risques, notamment les biais algorithmiques et les attaques adversariales.
 
-            La collaboration entre cybersécurité et IA est cruciale. Par exemple, les systèmes de gestion des événements de sécurité (SIEM) améliorés par l'IA permettent une analyse en temps réel et une réponse automatisée aux incidents. 
+         La collaboration entre cybersécurité et IA est cruciale. Par exemple, les systèmes de gestion des événements de sécurité (SIEM) améliorés par l'IA permettent une analyse en temps réel et une réponse automatisée aux incidents. 
 
-            Enfin, les enjeux éthiques et réglementaires, tels que ceux imposés par le RGPD en Europe, sont essentiels pour garantir une utilisation responsable et sécurisée de l'IA, protégeant ainsi les droits et la vie privée des individus.
+         Enfin, les enjeux éthiques et réglementaires, tels que ceux imposés par le RGPD en Europe, sont essentiels pour garantir une utilisation responsable et sécurisée de l'IA, protégeant ainsi les droits et la vie privée des individus.
 
 2. **Ouverture**
    - Question ouverte sur l’évolution future de ces domaines.
       - ### Ouverture
-            À mesure que l'IA et la cybersécurité continuent d'évoluer, la frontière entre innovation et vulnérabilité devient de plus en plus ténue. La prochaine grande étape pourrait être l'intégration de l'IA quantique, promettant des capacités de traitement et de détection des menaces encore plus avancées, mais introduisant également des défis de sécurité inédits. Comment les entreprises et les régulateurs vont-ils s'adapter à ces nouvelles réalités technologiques pour garantir un cyberespace sécurisé ? La réponse à cette question déterminera en grande partie la sécurité numérique des années à venir.
+         À mesure que l'IA et la cybersécurité continuent d'évoluer, la frontière entre innovation et vulnérabilité devient de plus en plus ténue. La prochaine grande étape pourrait être l'intégration de l'IA quantique, promettant des capacités de traitement et de détection des menaces encore plus avancées, mais introduisant également des défis de sécurité inédits. Comment les entreprises et les régulateurs vont-ils s'adapter à ces nouvelles réalités technologiques pour garantir un cyberespace sécurisé ? La réponse à cette question déterminera en grande partie la sécurité numérique des années à venir.
