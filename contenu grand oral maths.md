@@ -74,38 +74,38 @@
 - Problèmes potentiels : attaques quantiques (impact sur RSA), faiblesses dans les implémentations (side-channel attacks).
      - Vulnérabilité : La capacité à factoriser rapidement les grands nombres rendrait les clés RSA obsolètes, compromettant la confidentialité et la sécurité des communications et des données protégées par RSA
      - Les **attaques par canaux auxiliaires** (ou "side-channel attacks") exploitent des informations non directement liées à la sortie de l'algorithme cryptographique pour obtenir des données sensibles. Elles se concentrent sur la manière dont un système implémente un algorithme cryptographique.
-        ### Types d'attaques par canaux auxiliaires
+      ### Types d'attaques par canaux auxiliaires
 
-      1. **Analyse de la consommation d'énergie (Power Analysis)** :
-         - Mesure la consommation électrique pendant les opérations cryptographiques.
+    1. **Analyse de la consommation d'énergie (Power Analysis)** :
+       - Mesure la consommation électrique pendant les opérations cryptographiques.
 
-      2. **Analyse temporelle (Timing Attacks)** :
-         - Exploite les variations dans le temps d'exécution des algorithmes.
+    2. **Analyse temporelle (Timing Attacks)** :
+       - Exploite les variations dans le temps d'exécution des algorithmes.
 
-      3. **Émissions électromagnétiques (Electromagnetic Emanations)** :
-         - Analyse les ondes électromagnétiques émises par l'appareil.
+    3. **Émissions électromagnétiques (Electromagnetic Emanations)** :
+       - Analyse les ondes électromagnétiques émises par l'appareil.
 
-      4. **Analyse acoustique (Acoustic Cryptanalysis)** :
-         - Écoute les sons produits par les composants électroniques.
+    4. **Analyse acoustique (Acoustic Cryptanalysis)** :
+       - Écoute les sons produits par les composants électroniques.
 
-      5. **Analyse par canal thermique (Thermal Imaging)** :
-         - Utilise des caméras thermiques pour observer les variations de chaleur.
+    5. **Analyse par canal thermique (Thermal Imaging)** :
+        - Utilise des caméras thermiques pour observer les variations de chaleur.
 
-      ### Exemples concrets
+    ### Exemples concrets
 
-      - **Timing attack sur RSA** : Mesurer le temps d'exécution pour déduire la clé privée.
-      - **DPA sur les cartes à puce** : Analyser la consommation électrique pour obtenir des bits de la clé secrète.
+    - **Timing attack sur RSA** : Mesurer le temps d'exécution pour déduire la clé privée.
+    - **DPA sur les cartes à puce** : Analyser la consommation électrique pour obtenir des bits de la clé secrète.
 
-      ### Contre-mesures
+    ### Contre-mesures
 
-      - **Obfuscation temporelle** : Introduire des délais aléatoires.
-      - **Filtrage et blindage** : Réduire les émissions électromagnétiques et acoustiques.
-      - **Masquage** : Combiner les données avec des valeurs aléatoires.
-      - **Algorithmes à consommation constante** : Utiliser des algorithmes avec des ressources constantes.
+    - **Obfuscation temporelle** : Introduire des délais aléatoires.
+    - **Filtrage et blindage** : Réduire les émissions électromagnétiques et acoustiques.
+    - **Masquage** : Combiner les données avec des valeurs aléatoires.
+    - **Algorithmes à consommation constante** : Utiliser des algorithmes avec des ressources constantes.
 
-      ### Conclusion
+    ### Conclusion
 
-      Les attaques par canaux auxiliaires sont une menace sérieuse qui exploitent les aspects physiques de la mise en œuvre des algorithmes cryptographiques. Des contre-mesures appropriées sont nécessaires pour protéger les informations sensibles.
+    Les attaques par canaux auxiliaires sont une menace sérieuse qui exploitent les aspects physiques de la mise en œuvre des algorithmes cryptographiques. Des contre-mesures appropriées sont nécessaires pour protéger les informations sensibles.
    - Importance de la mise à jour et de l'évolution des algorithmes face aux nouvelles menaces.
      - On a parlé de brute-force alors un des buts serait de rendre le chiffrement plus difficile à casser. Par exemple, en augmentant la taille des clés, en utilisant des algorithmes plus complexes, etc.
   
