@@ -191,8 +191,3 @@ Ex d'algo d'IA : Tri Fusion, KNN, algorithme de Dijsktra, etc...
          La collaboration entre cybersécurité et IA est cruciale. Par exemple, les systèmes de gestion des événements de sécurité (SIEM) améliorés par l'IA permettent une analyse en temps réel et une réponse automatisée aux incidents. 
 
          Enfin, les enjeux éthiques et réglementaires, tels que ceux imposés par le RGPD en Europe, sont essentiels pour garantir une utilisation responsable et sécurisée de l'IA, protégeant ainsi les droits et la vie privée des individus.
-
-2. **Ouverture**
-   - Question ouverte sur l’évolution future de ces domaines.
-      - ### Ouverture
-         À mesure que l'IA et la cybersécurité continuent d'évoluer, la frontière entre innovation et vulnérabilité devient de plus en plus ténue. La prochaine grande étape pourrait être l'intégration de l'IA quantique, promettant des capacités de traitement et de détection des menaces encore plus avancées, mais introduisant également des défis de sécurité inédits. Comment les entreprises et les régulateurs vont-ils s'adapter à ces nouvelles réalités technologiques pour garantir un cyberespace sécurisé ? La réponse à cette question déterminera en grande partie la sécurité numérique des années à venir.
