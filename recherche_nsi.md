@@ -1,4 +1,7 @@
 # La cybersécurité et l'IA, des enjeux majeurs dans un monde hyperconnecté ?
+
+Ex d'algo d'IA : Tri Fusion, KNN, algorithme de Dijsktra, etc...
+
 ---
 ### Introduction
 
