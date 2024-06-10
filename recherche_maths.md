@@ -5,6 +5,7 @@
 1. **Accroche**
    - Exemple d'un chiffrement célèbre (comme le RSA) ou une anecdote historique sur le chiffrement.
       * RSA : Chiffrement asymétrique inventé en 1977 par Rivest, Shamir et Adleman.
+      * La Machine Enigma des Nazis
       * Le chiffre de César est l'un des plus anciens systèmes de chiffrement, utilisé par Jules César pour sécuriser ses communications militaires. Il consiste à décaler chaque lettre d'un message par un nombre fixe de places dans l'alphabet. Par exemple, avec un décalage de trois, "A" devient "D". Ce système, bien que simple par rapport aux standards actuels, a joué un rôle important dans l'histoire de la cryptographie et continue d'être étudié aujourd'hui pour son importance historique et éducative.
    - Statistique sur l'importance de la sécurité des données dans le monde numérique actuel.
       * 43 % des cyberattaques ciblent les petites entreprises (source : [Verizon](https://www.verizon.com/business/resources/articles/small-business-cyber-security-and-data-breaches/)).
