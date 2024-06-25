@@ -7,7 +7,7 @@ Ex d'algo d'IA : Tri Fusion, KNN, algorithme de Dijsktra, etc...
 
 1. **Accroche**
    - Illustration d’une cyberattaque récente ou d’une avancée marquante en IA.
-      * La sortie récente du modèle GPT-4o de OpenAI et l'attaque ridicule de France Travail.  
+      * La sortie récente du modèle GPT-4o de OpenAI et l'attaque ~~ridicule~~ de France Travail.  
    - Statistique sur l’augmentation des cyberattaques ou l'adoption de l'IA dans le monde.
       * 43 millions de personnes touchées par la fuite de données de France Travail.
 2. **Présentation de la problématique**
