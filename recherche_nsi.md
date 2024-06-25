@@ -163,12 +163,6 @@ Ex d'algo d'IA : Tri Fusion, KNN, algorithme de Dijsktra, etc...
 
 1. **Synthèse des Points Clés**
    - Récapitulatif des enjeux majeurs liés à la cybersécurité et à l’IA.
-     - ### Enjeux Majeurs Liés à la Cybersécurité et à l'IA
+     - La cybersécurité et l'IA sont des domaines essentiels dans un monde hyperconnecté, où la protection des données et la gestion des risques sont cruciales pour assurer la sécurité et la confiance des utilisateurs.
+     - Les menaces actuelles et futures, les mesures de protection, les bénéfices et les risques de l'IA, ainsi que les synergies entre la cybersécurité et l'IA soulignent l'importance de ces sujets.
 
-         La cybersécurité, qui protège les systèmes informatiques et les données contre les attaques, est devenue essentielle dans un monde hyperconnecté. L'augmentation des cybermenaces telles que les ransomwares, le phishing et les attaques sur le cloud et l'Internet des objets (IoT) souligne l'importance de stratégies robustes, incluant la cryptographie et la gestion des accès. 
-
-         L'intelligence artificielle (IA), capable de simuler l'intelligence humaine, est utilisée dans divers domaines comme la santé, la finance et les transports. En cybersécurité, l'IA améliore la détection des menaces et automatise les réponses. Cependant, elle pose aussi des risques, notamment les biais algorithmiques et les attaques adversariales.
-
-         La collaboration entre cybersécurité et IA est cruciale. Par exemple, les systèmes de gestion des événements de sécurité (SIEM) améliorés par l'IA permettent une analyse en temps réel et une réponse automatisée aux incidents. 
-
-         Enfin, les enjeux éthiques et réglementaires, tels que ceux imposés par le RGPD en Europe, sont essentiels pour garantir une utilisation responsable et sécurisée de l'IA, protégeant ainsi les droits et la vie privée des individus.
