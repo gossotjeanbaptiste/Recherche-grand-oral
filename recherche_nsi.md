@@ -114,25 +114,6 @@ Ex d'algo d'IA : Tri Fusion, KNN, algorithme de Dijsktra, etc...
    - Exemples concrets de solutions IA en cybersécurité.
      - Authentification quasi automatique des vulnérabilités potentielles
 3. **Risques et Défis Posés par l’IA**
-   - Les risques associés à l’IA : biais algorithmiques, attaques IA, éthique, etc.
-      ### 1. Biais algorithmiques
-      - **Nature des biais** : Les systèmes d'IA peuvent refléter les préjugés présents dans les données d'entraînement ou dans les choix de conception.
-      - **Implications** : Discriminations potentielles dans la justice, l'emploi, et la santé.
-
-      ### 2. Attaques IA
-      - **Types d'attaques** : Attaques adversariales, empoisonnement de données, exploitation des failles.
-      - **Implications** : Risques de sécurité, atteintes à la confidentialité, pertes financières.
-
-      ### 3. Questions éthiques
-      - **Principales préoccupations** : Transparence, responsabilité, vie privée, consentement, équité.
-      - **Implications** : Perte de confiance du public, conséquences légales et réglementaires.
-
-      ### Mesures d'atténuation
-      - **Biais algorithmiques** : Utiliser des données diversifiées, audits réguliers, implication humaine.
-      - **Attaques IA** : Sécuriser les données, développer des modèles robustes, surveillance continue.
-      - **Questions éthiques** : Améliorer la transparence, clarifier la responsabilité, protéger la vie privée, éduquer et former.
-
-      En prenant des mesures pour aborder ces risques, nous pouvons maximiser les avantages de l'IA tout en minimisant ses inconvénients.
 
    - Comment ces risques peuvent impacter la cybersécurité.
      - Les risques associés à l'IA affectent la cybersécurité de plusieurs manières :
