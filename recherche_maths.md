@@ -42,14 +42,14 @@
       **Fonctionnement** :
      1. **Clés** :
       - Deux nombres premiers $p$ et $q$ sont choisis.
-      - Calcul de $n = p \times q$ (partie de la clé publique).
-      - Calcul de $e$ (exposant de chiffrement) et de $d$ (exposant de déchiffrement).
+      - Calcul de $\displaystyle\mathrm{n = p \times q}$ (partie de la clé publique).
+      - Calcul de $\displaystyle\mathrm{e}$ (exposant de chiffrement) et de $\displaystyle\mathrm{d}$ (exposant de déchiffrement).
 
      2. **Chiffrement** :
-      - Le message $M$ est chiffré avec $(n, e)$ : $(C = M^e \equiv n)$.
+      - Le message $\displaystyle\mathrm{M}$ est chiffré avec $\displaystyle\mathrm{(n, e)}$ : $\displaystyle\mathrm{(C = M^e \equiv n)}$.
 
      3. **Déchiffrement** :
-      - Le message chiffré $C$ est déchiffré avec $(n, d)$ : $( M = C^d \equiv n)$.
+      - Le message chiffré $\displaystyle\mathrm{C}$ est déchiffré avec $\displaystyle\mathrm{(n, d)}$ : $\displaystyle\mathrm{( M = C^d \equiv n)}$.
 
       **Sécurité** :
       Repose sur la difficulté de factoriser de grands nombres.
@@ -87,9 +87,9 @@
      - Il faut que l'algorithme en question soit capable de chiffrer et de déchiffrer des messages de tailles différentes et que sa limite sois rarement atteinte. 
 2. **Analyse de Cas Pratiques**
    - Efficacité du RSA : sécurité basée sur la factorisation des grands nombres.
-     - Prenons exemple de la factorisation de 15 : $3 \times 5 = 15$. C'est facile à faire. Mais si on prend un nombre beaucoup plus grand, comme 15 chiffres, c'est beaucoup plus difficile à faire. C'est ce qui rend le RSA sécurisé. Par exemple $24 568 565$ c'est $5\times 7\times 67 \times 10477$
+     - Prenons exemple de la factorisation de 15 : $\displaystyle\mathrm{3 \times 5 = 15}$. C'est facile à faire. Mais si on prend un nombre beaucoup plus grand, comme 15 chiffres, c'est beaucoup plus difficile à faire. C'est ce qui rend le RSA sécurisé. Par exemple $\displaystyle\mathrm{24 568 565}$ c'est $\displaystyle\mathrm{5\times 7\times 67 \times 10477}$
    - Efficacité de l'AES : rapidité et sécurité basée sur les substitutions et permutations.
-     - Prenons exemple des substitutions et permutations de 15, ce qui donnerait $15! = 15 \times 14 \times 13 \times 12 \times 11 \times 10 \times 9 \times 8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 = 1 \ 307 \ 674 \ 368 \ 000$. C'est beaucoup plus difficile à faire que de factoriser 15. C'est ce qui rend l'AES sécurisé.
+     - Prenons exemple des substitutions et permutations de 15, ce qui donnerait $\displaystyle\mathrm{15! = 15 \times 14 \times 13 \times 12 \times 11 \times 10 \times 9 \times 8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 = 1 \ 307 \ 674 \ 368 \ 000}$. C'est beaucoup plus difficile à faire que de factoriser 15. C'est ce qui rend l'AES sécurisé.
 3. **Limitations et Vulnérabilités**
    - Problèmes potentiels : attaques quantiques (impact sur RSA), faiblesses dans les implémentations (side-channel attacks).
      - Vulnérabilité : La capacité à factoriser rapidement les grands nombres rendrait les clés RSA obsolètes, compromettant la confidentialité et la sécurité des communications et des données protégées par RSA
